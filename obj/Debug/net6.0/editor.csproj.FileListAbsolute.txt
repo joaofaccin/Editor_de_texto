@@ -1,0 +1,30 @@
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.csproj.AssemblyReference.cache
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.GeneratedMSBuildEditorConfig.editorconfig
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.AssemblyInfoInputs.cache
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.AssemblyInfo.cs
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.csproj.CoreCompileInputs.cache
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/editor
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/editor.deps.json
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/editor.runtimeconfig.json
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/editor.dll
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/ref/editor.dll
+/media/lenioth/E24D-A60A/Calculadora/editor/bin/Debug/net6.0/editor.pdb
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.dll
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/ref/editor.dll
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.pdb
+/media/lenioth/E24D-A60A/Calculadora/editor/obj/Debug/net6.0/editor.genruntimeconfig.cache
+C:\Nova pasta\Calculadora\editor\bin\Debug\net6.0\editor.exe
+C:\Nova pasta\Calculadora\editor\bin\Debug\net6.0\editor.deps.json
+C:\Nova pasta\Calculadora\editor\bin\Debug\net6.0\editor.runtimeconfig.json
+C:\Nova pasta\Calculadora\editor\bin\Debug\net6.0\editor.dll
+C:\Nova pasta\Calculadora\editor\bin\Debug\net6.0\editor.pdb
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.csproj.AssemblyReference.cache
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.AssemblyInfoInputs.cache
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.AssemblyInfo.cs
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.csproj.CoreCompileInputs.cache
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.dll
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\refint\editor.dll
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.pdb
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\editor.genruntimeconfig.cache
+C:\Nova pasta\Calculadora\editor\obj\Debug\net6.0\ref\editor.dll
